@@ -1,0 +1,1 @@
+Se corrigió el nombre del archivo de estilos de 'index.css' a '<style.css>'
